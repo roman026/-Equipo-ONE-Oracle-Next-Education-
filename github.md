@@ -223,18 +223,4 @@ Para buscar utilizamos el comando git grep color y nos buscará en todo el proye
 
 Si queremos buscar cuántas veces utilizamos un atributo de HTML lo hacemos con **git grep -c "atributo"**.
 
-<table class="hide" width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
 
----
-
-#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01b_git*** de Slack
